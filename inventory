@@ -1,1 +1,11 @@
 [db]
+34.233.126.143
+
+[backend]
+
+
+[frontend]
+
+
+[all:vars]
+ansible_passwod=DevOps321
