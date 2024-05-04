@@ -1,4 +1,4 @@
 login_user: root
-login_host: db private ip
+login_host: 172.31.22.155
 login_password: ExpenseApp@1
-DB_HOST: given db private ip
+DB_HOST: 172.31.22.155
