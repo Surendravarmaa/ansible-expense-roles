@@ -7,5 +7,3 @@
 [frontend]
 172.31.29.39
 
-[all:vars]
-ansible_password=DevOps321
