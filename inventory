@@ -5,7 +5,7 @@ db.surendra.online
 backend.surendra.online
 
 [frontend]
-frontend.surendra.online
+surendra.online
 
 [all:vars]
 ansible_user=ec2-user
